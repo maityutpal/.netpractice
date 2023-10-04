@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuiltInDelegates", "BuiltIn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncCallbackDelegate", "AsyncCallbackDelegate\AsyncCallbackDelegate.csproj", "{73575E38-AF16-4A71-AE96-1D09E520E58E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicEvent", "BasicEvent\BasicEvent.csproj", "{395B736B-1A2C-4DE6-9040-BACB6DF7B5D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeatManagementEventApp", "HeatManagementEventApp\HeatManagementEventApp.csproj", "{4B449812-CB7A-431F-8AF9-7543A52603C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{73575E38-AF16-4A71-AE96-1D09E520E58E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73575E38-AF16-4A71-AE96-1D09E520E58E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73575E38-AF16-4A71-AE96-1D09E520E58E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{395B736B-1A2C-4DE6-9040-BACB6DF7B5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{395B736B-1A2C-4DE6-9040-BACB6DF7B5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{395B736B-1A2C-4DE6-9040-BACB6DF7B5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{395B736B-1A2C-4DE6-9040-BACB6DF7B5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B449812-CB7A-431F-8AF9-7543A52603C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B449812-CB7A-431F-8AF9-7543A52603C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B449812-CB7A-431F-8AF9-7543A52603C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B449812-CB7A-431F-8AF9-7543A52603C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
